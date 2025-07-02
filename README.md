@@ -79,7 +79,7 @@ MCP Sentiment is a lightweight text sentiment analyzer that lets users input any
 ## 🧰 How to run locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mcp-sentiment.git
+git clone https://github.com/cherypallysaisurya/mcp-sentiment-analysis.git
 cd mcp-sentiment
 python -m venv venv
 venv\Scripts\activate   # For Windows
