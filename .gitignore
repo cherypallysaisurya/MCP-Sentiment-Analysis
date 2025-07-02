@@ -1,0 +1,13 @@
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore large/binary files
+*.exe
+*.dll
+*.so
+*.map
+
+# Node frontend stuff (from gradio builds)
+node_modules/
